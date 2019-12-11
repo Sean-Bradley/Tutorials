@@ -1,0 +1,58 @@
+#cookies-eu-banner {
+  background: #444;
+  color: #fff;
+  padding: 6px;
+  font-size: 13px;
+  text-align: center;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -250px;
+  margin-left: -250px;
+  width: 500px;
+  height: 500px;
+}
+
+#cookies-eu-more,
+#cookies-eu-accept,
+#cookies-eu-reject {
+  text-decoration: none;
+  background: #222;
+  color: #fff;
+  border: 1px solid #000;
+  cursor: pointer;
+  padding: 4px 7px;
+  margin: 2px 0;
+  font-size: 13px;
+  font-weight: 700;
+  transition: background .07s, color .07s, border-color .07s
+}
+
+#cookies-eu-more:hover,
+#cookies-eu-more:focus,
+#cookies-eu-accept:hover,
+#cookies-eu-accept:focus {
+  background: #fff;
+  color: #222
+}
+
+#cookies-eu-more {
+  margin-left: 7px
+}
+
+#cookies-eu-reject {
+  background: 0 0;
+  font-weight: 400;
+  color: #ccc;
+  cursor: pointer;
+  padding: 4px 7px;
+  margin: 2px 0;
+  border: 1px solid #666
+}
+
+#cookies-eu-reject:hover,
+#cookies-eu-reject:focus {
+  border-color: #fff;
+  background: #222;
+  color: #fff
+}
