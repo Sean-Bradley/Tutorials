@@ -1,2 +1,3 @@
 # Tutorials
-Links to my tutorials
+
+[https://tutorials.seanwasere.com](https://tutorials.seanwasere.com)
