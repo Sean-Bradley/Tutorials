@@ -1,0 +1,28 @@
+site_name: Tutorials
+nav:
+  - Home: index.md
+  
+theme:
+  name: 'material'
+  custom_dir: 'G:\mkdocs-material\material'
+  language: 'en'
+  palette:
+    primary: 'Blue Grey'
+    accent: 'Blue Grey'
+  font:
+    false
+
+markdown_extensions:
+  - codehilite:
+      guess_lang: false
+# google_analytics:
+#   - 'UA-147973042-4'
+#   - 'auto'
+site_author: 'Sean Bradley'
+copyright: 'Copyright 2019 &copy; Sean Bradley'
+
+# extra_css: 
+#   - css/extra.css
+#extra_javascript: 
+#   - js/cm-head.js
+#   - js/cm-body.js
