@@ -7,3 +7,5 @@
 [https://prometheustutorials.seanwasere.com/](https://prometheustutorials.seanwasere.com/)
 
 [https://designpatterns.seanwasere.com/](https://designpatterns.seanwasere.com/)
+
+![img/logo.gif](img/logo.gif)
