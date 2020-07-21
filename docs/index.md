@@ -1,11 +1,19 @@
 # Tutorials
 
-[https://zabbixtutorials.seanwasere.com/](https://zabbixtutorials.seanwasere.com/)
+[https://sbcode.net/zabbix/](https://sbcode.net/zabbix/)
 
-[https://grafanatutorials.seanwasere.com/](https://grafanatutorials.seanwasere.com/)
+[https://sbcode.net/grafana/](https://sbcode.net/grafana/)
 
-[https://prometheustutorials.seanwasere.com/](https://prometheustutorials.seanwasere.com/)
+[https://sbcode.net/prometheus/](https://sbcode.net/prometheus/)
 
-[https://designpatterns.seanwasere.com/](https://designpatterns.seanwasere.com/)
+[https://sbcode.net/python/](https://sbcode.net/python/)
+
+[https://sbcode.net/threejs/](https://sbcode.net/threejs/)
+
+[https://sbcode.net/tssock/](https://sbcode.net/tssock/)
+
+[https://sbcode.net/topoearth/](https://sbcode.net/topoearth/)
+
+[https://sbcode.net/tsbeginners/](https://sbcode.net/tsbeginners/)
 
 ![img/logo.gif](img/logo.gif)

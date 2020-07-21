@@ -19,7 +19,7 @@ markdown_extensions:
 #   - 'UA-147973042-4'
 #   - 'auto'
 site_author: 'Sean Bradley'
-copyright: 'Copyright 2019 &copy; Sean Bradley'
+copyright: 'Copyright 2020 &copy; Sean Bradley'
 
 # extra_css: 
 #   - css/extra.css
